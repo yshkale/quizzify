@@ -1,0 +1,28 @@
+@media (min-width: 64em) {
+  html {
+    font-size: 90%;
+  }
+
+  /* ---HEADER--- */
+
+  .header {
+    margin: 2.4rem 23rem;
+  }
+
+  .container {
+    margin: 6.4rem 36rem;
+  }
+
+  .question {
+    font-size: 1.6rem;
+  }
+
+  .options {
+    row-gap: 1.6rem;
+    width: 100%;
+  }
+
+  .submit {
+    width: 100%;
+  }
+}
